@@ -8,7 +8,7 @@ Project Overview
 Understanding why customers leave is as critical as acquiring them. In this project, I performed a Churn Analysis using Python to uncover customer behavior patterns, build predictive models, and generate actionable insights that businesses can use to reduce churn and improve retention.
 
 I approached this analysis from both descriptive and predictive angles—telling the story behind churn using data, and then building models to anticipate and mitigate it.
-________________________________________
+
 🛠️ Tools and Technologies Used
 
 •	Python (Jupyter Notebook) – Analysis and modeling
